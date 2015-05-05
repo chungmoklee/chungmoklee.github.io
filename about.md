@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+##Honors and Awards
 
-[email@domain.com](mailto:email@domain.com)
+- Young Management Scientist Award, Korean Operations Management Science Society, 2014 
+- Research Division Award, IBM, 2014
+- Beak-Am Technology Award, Korean Institute of Industrial Engineers, 2011.
+
+
+
+
+##IT Skills
+
+I am very fluent in using:
+
+> C, C++, C#, Python (and IPython!), .NET, Java, Matlab, R, Fortran, EJB, SQL, Cplex, XPress-MP, LaTeX
+
+Contact me at [chungmok@hufs.ac.kr](mailto:chungmok@hufs.ac.kr)
