@@ -18,7 +18,8 @@ Journal Papers (Peer-reviewed)
     function,” To Appear in *Journal of Operational Research Society*.
 3.  **Chungmok Lee**, Minh Pham, Norman Kim, MK Jeong, Dennis Lin, and
     Wanpracha Chavalitwongse, “A network structural approach to the link
-    prediction problem,” To Appear in *INFORMS Journal on Computing*.
+    prediction problem,” *INFORMS Journal on Computing*, vol. 27, no. 2,
+    pp. 249–267, 2015.
 4.  Chun-An Chou, Tib<span>é</span>rius O Bonates, **Chungmok Lee**, and
     Wanpracha Art Chaovalitwongse, “Multi-pattern generation framework
     for logical analysis of data,” *Annals of Operations Research*, pp.
