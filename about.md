@@ -2,12 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 
 
 
-##Honors and Awards
+## Honors and Awards
 
 - Young Management Scientist Award, Korean Operations Management Science Society, 2014 
 - Research Division Award, IBM, 2014
@@ -16,7 +17,7 @@ permalink: /about/
 
 
 
-##IT Skills
+## IT Skills
 
 I am very fluent in using:
 

@@ -5,11 +5,11 @@ title: Professional Experiance
 ...
 
 
-##Current Position
+## Current Position
 - Assistant Professor, Dept. of Industrial \& Management Engineering, Hankuk University of Foreign Studies, 3/2015 -- present
 
 
-##Professional Experience
+## Professional Experience
 
 - Research Staff Member, IBM Research -- Ireland, Smart City Research Center, 6/2013 -- 2/2015
 - Senior Researcher, Electronics and Telecommunications Research Institute (ETRI), 7/2011 -- 6/2013

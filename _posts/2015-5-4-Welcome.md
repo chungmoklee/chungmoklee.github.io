@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Welcome to Chungmok Lee's Page!
+title: "Welcome to Chungmok Lee's Page!"
+published: true
 ---
 
 I am now working at [Dept. of Industrial & Manegement Engineering](heep://ime.hufs.ac.kr), [Hankuk University of Foreign Studies](http://www.hufs.ac.kr) as an assistant professor. 
@@ -9,7 +10,7 @@ My main research interest is to analyse, model, design, and implement algorithms
 
 You can download my [CV](/cv.pdf).
 
-###Some facts about me:
+## Some facts about me:
 
 - My Erdös number is **3** (Paul Erdös -> Gutti Jogesh Babu -> Dennis K. J. Lin -> Me!). You can calculate your own at [here](http://www.oakland.edu/enp/). I bet it will be much smaller than you may think!
   - **Erdős, P.**; **Babu, G. Jogesh**; Ramachandra, K. An asymptotic formula in additive number theory. *Acta Arith.* 28 (1975/76), no. 4, 405–412.
