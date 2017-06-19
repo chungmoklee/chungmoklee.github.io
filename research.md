@@ -79,66 +79,67 @@ Patents
 1.  Randall Lee Cogill, Olivier Gallay, **Chungmok Lee**, Zubair Nabi,
     Martin Rufli, Robert Shorten, Tigran Tchrakian, Rudi Verago, Fabian
     Roger Wirth, Jia Y Yu, and others, “Distributed parking space
-    detection, characterization, advertisement, and enforcement.” 2017.
+    detection, characterization, advertisement, and enforcement,” US
+    Patent 9,601,018, 2017.
 2.  Bissan Ghaddar, Marco Laumanns, **Chungmok Lee**, Martin Mevissen,
     Nicole Taheri, Susara Van Den Heever, and Rudi Verago, “Solving an
     optimization model using automatically generated formulations in a
-    parallel and collaborative method.” 2017.
+    parallel and collaborative method,” 2017.
 3.  Randall Lee Cogill, Olivier Gallay, **Chungmok Lee**, Zubair Nabi,
     Martin M Rufli, Robert Shorten, Tigran T Tchrakian, Rudi Verago,
     Fabian Roger Wirth, and Sergiy Zhuk, “Vehicle and local area
-    security system communications.” 2017.
+    security system communications,” 2017.
 
 Conferences
 -----------
 
 1.  Minjae Park and **Chungmok Lee**, “Design of customer center network for
-    warranty services.” 2016.
+    warranty services,” in *EURO 2016*, 2016.
 2.  **Chungmok Lee**, “Benders-and-price approach for electric vehicle
-    charging location problem under uncertainty.” 2016.
+    charging location problem under uncertainty,” in *EURO 2016*, 2016.
 3.  **Chungmok Lee**, “Electric vehicle charging station locations under
-    range uncertainty.” 2016.
+    range uncertainty,” in *INFORMS international 2016*, 2016.
 4.  **Chungmok Lee** and Rahul Nair, “Transit network design problem with
-    uncertain demands.” 2014.
+    uncertain demands,” in *INFORMS 2014*, 2014.
 5.  **Chungmok Lee**, Nicole Taheri, and Martin Mevissen, “An extreme-case
-    scenario approach for data uncertainty.” 2014.
+    scenario approach for data uncertainty,” in *IFORS 2014*, 2014.
 6.  Susara van den Heever, Ban Kawas, Marco Laumanns, Radu Marinescu,
     **Chungmok Lee**, Nicole Taheri, Martin Mevissen, Rudi Verago, and Ali
     Koc, “A decision support system for optimization in the face of
-    uncertainty.” 2014.
+    uncertainty,” in *IFORS 2014*, 2014.
 7.  **Chungmok Lee**, Minh Pham, Norman Kim, Myong K Jeong, Dennis KJ Lin,
     and Wanpracha Art Chavalitwongse, “A novel link prediction approach
     for scale-free networks,” in *Proceedings of the companion
     publication of the 23rd international conference on world wide web
     companion*, 2014, pp. 1333–1338.
 8.  **Chungmok Lee**, “A novel link prediction approach for scale-free
-    networks.” 2014.
+    networks,” in *LSNA 2014*, 2014.
 9.  **Chungmok Lee**, “Mathematical programming approaches for data-mining
-    applications.” 2013.
+    applications,” in *INRIA realopt invited seminar*, 2013.
 10. Jinil Han, **Chungmok Lee**, Kyungsik Lee, and Sungsoo Park, “Exact
     solutions for a bandwidth packing problem with queueing delay
-    guarantees.” 2010.
+    guarantees,” in *VOCAL 2010*, 2010.
 11. Lee Yongsik, **Chungmok Lee**, and Sungsoo Park, “A branch-and-price
     algorithm for the vehicle routing problem with time dependent travel
-    time.” 2010.
+    time,” in *KIIE 2010/fall*, 2010.
 12. **Chungmok Lee**, Minh Pham, Norman Kim, and Wanpracha Chavalitwongse,
-    “A network structural approach on the link prediction
-    problem.” 2010.
+    “A network structural approach on the link prediction problem,” in
+    *INFORMS 2010*, 2010.
 13. **Chungmok Lee**, Zhe Liang, and Wanpracha Chavalitwongse, “A
     branch-and-check-and-bound algorithm for redundant multicast routing
-    problem with shared risk link group.” 2010.
+    problem with shared risk link group,” in *INFORMS 2010*, 2010.
 14. Norman Kim, **Chungmok Lee**, Sangheum Hwang, MK Jeong, and Bong-Jin
-    Yum, “A robust kernel-based regression.” 2010.
+    Yum, “A robust kernel-based regression,” in *INFORMS 2010*, 2010.
 15. **Chungmok Lee**, Kyungsik Lee, Kyungchul Park, and Sungsoo Park,
     “Branch-and-price-and-cut approach for the robust network design
-    without flow bifurcations.” 2010.
+    without flow bifurcations,” in *RUTCOR brownbag 2010 spring*, 2010.
 16. **Chungmok Lee** and Sungsoo Park, “Chebyshev center based column
-    generation.” 2009.
+    generation,” in *ISMP 2009*, 2009.
 17. **Chungmok Lee** and Sungsoo Park, “A new acceleration method for column
-    generation.” 2009.
+    generation,” in *KIIE 2009/fall*, 2009.
 18. **Chungmok Lee**, Kyungsik Lee, Kyungchul Park, and Sungsoo Park,
     “Algorithm for the robust network design problem with single path
-    routing.” 2009.
+    routing,” in *KIIE 2009/spring*, 2009.
 19. **Chungmok Lee**, Kyungsik Lee, Kyungchul Park, and Sungsoo Park, “An
     optimization algorithm for the path selection problem under demand
-    uncertainty.” 2008.
+    uncertainty,” in *KIIE 2008/spring*, 2008.
