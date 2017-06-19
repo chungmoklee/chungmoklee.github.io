@@ -84,11 +84,11 @@ Patents
 2.  Bissan Ghaddar, Marco Laumanns, **Chungmok Lee**, Martin Mevissen,
     Nicole Taheri, Susara Van Den Heever, and Rudi Verago, “Solving an
     optimization model using automatically generated formulations in a
-    parallel and collaborative method,” 2017.
+    parallel and collaborative method,” US Patent 9,601,018, 2017.
 3.  Randall Lee Cogill, Olivier Gallay, **Chungmok Lee**, Zubair Nabi,
     Martin M Rufli, Robert Shorten, Tigran T Tchrakian, Rudi Verago,
     Fabian Roger Wirth, and Sergiy Zhuk, “Vehicle and local area
-    security system communications,” 2017.
+    security system communications,” US Patent 9,601,018, 2017.
 
 Conferences
 -----------
