@@ -93,8 +93,8 @@ Patents
 Conferences
 -----------
 
-1.  <span class="citeproc-not-found"
-    data-reference-id="logms2017">**???**</span>
+1.  **Chungmok Lee**, “A novel branch-and-price approach for the
+    electric-vehicle routing problem,” in *LOGMS 2017*, 2017.
 2.  Minjae Park and **Chungmok Lee**, “Design of customer center network for
     warranty services,” in *EURO 2016*, 2016.
 3.  **Chungmok Lee**, “Benders-and-price approach for electric vehicle
