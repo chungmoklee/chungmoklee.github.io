@@ -89,6 +89,11 @@ Patents
     Martin M Rufli, Robert Shorten, Tigran T Tchrakian, Rudi Verago,
     Fabian Roger Wirth, and Sergiy Zhuk, “Vehicle and local area
     security system communications,” US Patent 9,601,018, 2017.
+4.  Randall L Cogill, Olivier Gallay, **Chungmok Lee**, Zubair Nabi, Martin
+    Rufli, Robert Shorten, Tigran Tchrakian, Rudi Verago, Fabian R
+    Wirth, Sergiy Zhuk, and International Business Machines Corporation,
+    “System and method for air-pollutant source-localization using
+    parked motor vehicles,” 2017.
 
 Conferences
 -----------
