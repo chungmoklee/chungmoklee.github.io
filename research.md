@@ -9,7 +9,7 @@ title: Research
 Journal Papers (Peer-reviewed)
 ------------------------------
 
-1.  Yerin Kim Kim, Daemook Kang, Mingoo Jeon, and **Chungmok Lee**, “GAN-MP
+1.  Yerin Kim, Daemook Kang, Mingoo Jeon, and **Chungmok Lee**, “GAN-MP
     hybrid heuristic algorithm for non-convex portfolio optimization
     problem,” To Appear in *Engineering Economist*.
 2.  **Chungmok Lee**, Donghyun Cho, and Sungsoo Park, “A combinatorial
