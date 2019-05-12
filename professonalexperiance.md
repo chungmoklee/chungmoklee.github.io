@@ -6,7 +6,7 @@ title: Professional Experiance
 
 
 ## Current Position
-- Assistant Professor, Dept. of Industrial \& Management Engineering, Hankuk University of Foreign Studies, 3/2015 -- present
+- Associate Professor, Dept. of Industrial \& Management Engineering, Hankuk University of Foreign Studies
 
 
 ## Professional Experience
