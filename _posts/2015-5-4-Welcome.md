@@ -4,7 +4,7 @@ title: "Welcome to Chungmok Lee's Page!"
 published: true
 ---
 
-I am now working at [Dept. of Industrial & Manegement Engineering](heep://ime.hufs.ac.kr), [Hankuk University of Foreign Studies](http://www.hufs.ac.kr) as an assistant professor. 
+I am now working at [Dept. of Industrial & Manegement Engineering](heep://ime.hufs.ac.kr), [Hankuk University of Foreign Studies](http://www.hufs.ac.kr) as an associate professor. 
 
 My main research interest is to analyse, model, design, and implement algorithms for optimization problems by using in-depth theory and the state-of-the-art tools. 
 
