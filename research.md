@@ -1,16 +1,7 @@
 ---
-bibliography: |
-  ../cv.bib
-csl: |
-  refonly.csl
-layout: |
-  page
-meta-json: |
-  {\"layout\":\"page\",\"permalink\":\"/research/\",\"bibliography\":\"../cv.bib\",\"csl\":\"refonly.csl\",\"title\":\"Research\"}
-permalink: |
-  /research/
-title: |
-  Research
+layout: page
+permalink:  /research/
+title:  Research
 ---
 
 Journal Papers (Peer-reviewed)
