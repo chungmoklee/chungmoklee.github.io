@@ -13,102 +13,102 @@ title: |
   Research
 ---
 
-Journal Papers (Peer-reviewed)
-------------------------------
+## Journal Papers (Peer-reviewed)
 
-1.  **Chungmok Lee** and Rahul Nair, "Robust transit line planning based on
+1.  `<span class="citeproc-not-found"
+    data-reference-id="lee2021probeable">`{=html}**???**`</span>`{=html}
+2.  **Chungmok Lee** and Rahul Nair, "Robust transit line planning based on
     demand estimates obtained from mobile phones," To Appear in *EURO
     Journal on Transportation and Logisticse*.
-2.  Munjeong Kang and **Chungmok Lee**, "An exact algorithm for
+3.  Munjeong Kang and **Chungmok Lee**, "An exact algorithm for
     heterogeneous drone-truck routing problem," To Appear in
     *Transportation Science*.
-3.  **Chungmok Lee**, "An exact algorithm for the electric-vehicle routing
+4.  **Chungmok Lee**, "An exact algorithm for the electric-vehicle routing
     problem with nonlinear charging time," To Appear in *Journal of the
     Operational Research Society*.
-4.  Seulgi Joung, Jaeyoong Lim, **Chungmok Lee**, Jongyoon Shin, Ikkyun
+5.  Seulgi Joung, Jaeyoong Lim, **Chungmok Lee**, Jongyoon Shin, Ikkyun
     Jung, and Sungsoo Park, "A linear programming based heuristic
     algorithm for bandwidth packing problem with scheduling," *Journal
     of the Operational Research Society*, vol. 71, no. 2, pp.
     250--263, 2020.
-5.  Yerin Kim, Daemook Kang, Mingoo Jeon, and **Chungmok Lee**, "GAN-MP
+6.  Yerin Kim, Daemook Kang, Mingoo Jeon, and **Chungmok Lee**, "GAN-MP
     hybrid heuristic algorithm for non-convex portfolio optimization
     problem," *Engineering Economist*, vol. 64, no. 3, pp.
     196--226, 2019.
-6.  **Chungmok Lee**, Donghyun Cho, and Sungsoo Park, "A combinatorial
+7.  **Chungmok Lee**, Donghyun Cho, and Sungsoo Park, "A combinatorial
     benders decomposition algorithm for the directed multiflow network
     diversion problem," *Military Operations Research*, vol. 24, no. 1,
     pp. 23--40, 2019.
-7.  Jiyoung Choi, **Chungmok Lee**, and Sungsoo Park, "Dantzig-Wolfe
+8.  Jiyoung Choi, **Chungmok Lee**, and Sungsoo Park, "Dantzig-Wolfe
     decomposition approach to the vehicle assignment problem with demand
     uncertainty in a hybrid hub-and-spoke network," *Annals of
     Operations Research*, vol. 264, no. 1, pp. 57--87, 2018.
-8.  **Chungmok Lee** and Jinil Han, "Benders-and-price approach for electric
+9.  **Chungmok Lee** and Jinil Han, "Benders-and-price approach for electric
     vehicle charging station location problem under probabilistic travel
     range," *Transportation Research Part B: Methodological*, vol. 106,
     pp. 130--152, 2017.
-9.  Chun-An Chou, Tibérius O Bonates, **Chungmok Lee**, and Wanpracha Art
+10. Chun-An Chou, Tibérius O Bonates, **Chungmok Lee**, and Wanpracha Art
     Chaovalitwongse, "Multi-pattern generation framework for logical
     analysis of data," *Annals of Operations Research*, vol. 249, no. 1,
     pp. 329--349, 2017.
-10. Dohyun Kim, **Chungmok Lee**, Sangheum Hwang, and Myong K Jeong, "A
+11. Dohyun Kim, **Chungmok Lee**, Sangheum Hwang, and Myong K Jeong, "A
     robust support vector regression with a linear-log concave loss
     function," *Journal of the Operational Research Society*, vol. 67,
     no. 5, pp. 735--742, 2016.
-11. Jinil Han, Kyungsik Lee, **Chungmok Lee**, Ki-Seok Choi, and Sungsoo
+12. Jinil Han, Kyungsik Lee, **Chungmok Lee**, Ki-Seok Choi, and Sungsoo
     Park, "Robust optimization approach for a chance-constrained binary
     knapsack problem," *Mathematical Programming*, vol. 157, no. 1, pp.
     277--296, 2016.
-12. **Chungmok Lee**, Minh Pham, Norman Kim, MK Jeong, Dennis Lin, and
+13. **Chungmok Lee**, Minh Pham, Norman Kim, MK Jeong, Dennis Lin, and
     Wanpracha Chavalitwongse, "A network structural approach to the link
     prediction problem," *INFORMS Journal on Computing*, vol. 27, no. 2,
     pp. 249--267, 2015.
-13. B Kawas, A Koc, M Laumanns, **Chungmok Lee**, R Marinescu, M Mevissen, N
+14. B Kawas, A Koc, M Laumanns, **Chungmok Lee**, R Marinescu, M Mevissen, N
     Taheri, SA van den Heever, and R Verago, "Unified framework and
     toolkit for commerce optimization under uncertainty," *IBM Journal
     of Research and Development*, vol. 58, no. 5/6, pp. 12--1, 2014.
-14. Kyoungmi Hwang, Kyungsik Lee, **Chungmok Lee**, and Sungsoo Park,
+15. Kyoungmi Hwang, Kyungsik Lee, **Chungmok Lee**, and Sungsoo Park,
     "Multi-class classification using a signomial function," *Journal of
     Operational Research Society*, 2014.
-15. Jinil Han, **Chungmok Lee**, and Sungsoo Park, "A robust scenario
+16. Jinil Han, **Chungmok Lee**, and Sungsoo Park, "A robust scenario
     approach for the vehicle routing problem with uncertain travel
     times," *Transportation Science*, vol. 48, no. 3, pp.
     373--390, 2014.
-16. **Chungmok Lee**, Kyungsik Lee, and Sungsoo Park, "Benders decomposition
+17. **Chungmok Lee**, Kyungsik Lee, and Sungsoo Park, "Benders decomposition
     approach for the robust network design problem with flow
     bifurcations," *Networks*, vol. 62, no. 1, pp. 1--16, 2013.
-17. Jinil Han, Kyungsik Lee, **Chungmok Lee**, and Sungsoo Park, "Exact
+18. Jinil Han, Kyungsik Lee, **Chungmok Lee**, and Sungsoo Park, "Exact
     algorithms for a bandwidth packing problem with queueing delay
     guarantees," *INFORMS Journal on Computing*, vol. 25, no. 3, pp.
     583--596, 2013.
-18. Zhe Liang, **Chungmok Lee**, and Wanpracha Chavalitwongse, "Mathematical
+19. Zhe Liang, **Chungmok Lee**, and Wanpracha Chavalitwongse, "Mathematical
     programming approaches for dual multicast routing problem with
     multilayer risk constraints," *Annals of Operations Research*, vol.
     203, no. 1, pp. 101--118, 2013.
-19. **Chungmok Lee**, Kyungsik Lee, and Sungsoo Park, "Robust vehicle
+20. **Chungmok Lee**, Kyungsik Lee, and Sungsoo Park, "Robust vehicle
     routing problem with deadlines and travel time/demand uncertainty,"
     *Journal of Operational Research Society*, vol. 63, no. 9, pp.
     1294--1306, 2012.
-20. **Chungmok Lee**, Kyungsik Lee, Kyungchul Park, and Sungsoo Park,
+21. **Chungmok Lee**, Kyungsik Lee, Kyungchul Park, and Sungsoo Park,
     "Branch-and-price-and-cut approach for the robust network design
     problem without flow bifurcations," *Operations Research*, vol. 60,
     no. 3, pp. 604--610, 2012.
-21. **Chungmok Lee** and Sungsoo Park, "Chebyshev center based column
+22. **Chungmok Lee** and Sungsoo Park, "Chebyshev center based column
     generation," *Discrete Applied Mathematics*, vol. 159, no. 18, pp.
     2251--2265, 2011.
-22. Lee Yongsik, **Chungmok Lee**, and Sungsoo Park, "A branch-and-price
+23. Lee Yongsik, **Chungmok Lee**, and Sungsoo Park, "A branch-and-price
     algorithm for the vehicle routing problem with time dependent travel
     times," *Journal of the Korean Institute of Industrial Engineering*,
     vol. 37, no. 2, pp. 144--152, 2011.
-23. Young-Seon Jeong, Norman Kim, **Chungmok Lee**, and Kyungsik Lee,
+24. Young-Seon Jeong, Norman Kim, **Chungmok Lee**, and Kyungsik Lee,
     "Remote health monitoring of parkinson's disease severity using
     signomial regression model," *IE Interface*, vol. 23, no. 4, pp.
     365--371, 2010.
-24. Chang Yong Park, Heeso Noh, **Chungmok Lee**, and Donghyun Cho,
+25. Chang Yong Park, Heeso Noh, **Chungmok Lee**, and Donghyun Cho,
     "Measurement of the zeeman-like AC stark shift," *Physical Review
     A*, vol. 63, no. 3, p. 032512, 2001.
 
-Patents
--------
+## Patents
 
 1.  Randall Lee Cogill, Olivier Gallay, **Chungmok Lee**, Zubair Nabi,
     Martin Rufli, Robert Shorten, Tigran Tchrakian, Rudi Verago, Fabian
@@ -129,8 +129,7 @@ Patents
     "System and method for air-pollutant source-localization using
     parked motor vehicles," 2017.
 
-Conferences
------------
+## Conferences
 
 1.  **Chungmok Lee**, "A novel branch-and-price approach for the
     electric-vehicle routing problem," in *LOGMS 2017*, 2017.
