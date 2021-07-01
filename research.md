@@ -15,8 +15,9 @@ title: |
 
 ## Journal Papers (Peer-reviewed)
 
-1.  `<span class="citeproc-not-found"
-    data-reference-id="lee2021probeable">`{=html}**???**`</span>`{=html}
+1.  **Chungmok Lee**, "A robust optimization approach with probe-able
+    uncertainty," To Appear in *European Journal of Operational
+    Research*.
 2.  **Chungmok Lee** and Rahul Nair, "Robust transit line planning based on
     demand estimates obtained from mobile phones," To Appear in *EURO
     Journal on Transportation and Logisticse*.
