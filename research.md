@@ -1,12 +1,4 @@
 ---
-bibliography: |
-  ../cv.bib
-csl: |
-  refonly.csl
-layout: |
-  page
-meta-json: |
-  {\"layout\":\"page\",\"permalink\":\"/research/\",\"bibliography\":\"../cv.bib\",\"csl\":\"refonly.csl\",\"title\":\"Research\"}
 permalink: |
   /research/
 title: |
