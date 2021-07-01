@@ -1,9 +1,8 @@
 ---
-permalink: |
-  /research/
-title: |
-  Research
----
+layout: page
+permalink: '/research/'
+title: Research
+...
 
 ## Journal Papers (Peer-reviewed)
 
